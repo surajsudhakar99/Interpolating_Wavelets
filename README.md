@@ -8,5 +8,7 @@ This repository contains py files for reconstructing a surface by fitting the su
 | x  | y | f(x,y) |
 | ------------- | ------------- |------|
 | -3.1415  | -3.1415  | 30.675 |
+| -3.1415  | -0.3078  | 20.675 |
+| -3.1415  | -0.3014  | 20.675 |
 
     
