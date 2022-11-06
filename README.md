@@ -3,4 +3,6 @@ This repository contains py files for reconstructing a surface by fitting the su
 
 ## Setps to Follow:
 
-1) $\frac{1}{c}$
+1) Provide a file containing the points of a surface $f(x,y)$ in the following format
+
+    $\underline{x}\quad\underline{y}\quad\underline{f(x,y)}$
