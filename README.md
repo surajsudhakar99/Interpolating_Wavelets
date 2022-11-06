@@ -7,4 +7,6 @@ This repository contains py files for reconstructing a surface by fitting the su
 
     $$\underline{x}\qquad\underline{y}\qquad\underline{f(x,y)}$$
     $$-3.1415\qquad -3.1415\qquad 30.675$$
+    $$-3.1415\qquad -3.1415\qquad 30.675$$
+    $$-3.1415\qquad -3.1415\qquad 30.675$$
     
