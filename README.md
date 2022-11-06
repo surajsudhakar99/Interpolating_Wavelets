@@ -6,8 +6,7 @@ This repository contains py files for reconstructing a surface by fitting the su
 1) Provide a file containing the points of a surface $f(x,y)$ in the following format
     
 | x  | y | f(x,y) |
-| ------------- | ------------- |
+| ------------- | ------------- |------|
 | -3.1415  | -3.1415  | 30.675 |
-| Content Cell  | Content Cell  |
 
     
