@@ -1,4 +1,4 @@
-# Interpolating Wavelets
+# Linear Combination of Interpolating Wavelets
 Please note the following points before using the porgram.
 
 ## Note:
