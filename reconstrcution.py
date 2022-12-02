@@ -28,7 +28,8 @@ class Model(nn.Module):
 
 ip2d = utils.Interp_Wlt_2D()
 
-file = open('file.dat','r')
+filename = input('Enter file name: ')
+file = open(filename,'r')
 
 x = np.array([])
 y = np.array([])
@@ -148,7 +149,7 @@ surf = np.matmul(W_mp,coefficients).reshape(zz.shape)
 
 fig = plt.figure(figsize=(10,5))
 ax = fig.add_subplot(111,projection='3d')
-ax.plot_surface(xx,yy,surf,cmap='seismic')
+ax.plot_surface(xx,yy,surf-surf.min(),cmap='seismic')
 ax.set_xlabel('X') 
 ax.set_ylabel('Y') 
 ax.set_zlabel('Z') 
