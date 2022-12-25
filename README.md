@@ -1,3 +1,8 @@
+# Interpolating Wavelets
+
+Interpolating wavelets are a type of biorthogonal wavelets. 
+
+
 # Linear Combination of Interpolating Wavelets
 Please note the following points before using the porgram.
 
